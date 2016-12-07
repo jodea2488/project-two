@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jo Dea Photos</title>
+<link rel="stylesheet" type="text/css" href="animation.css">
+<link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+
+
+</head>
+<body>
+
+  <nav class="floating-menu">
+  <h3>Jo Dea Photos</h3>
+  <br>
+
+  <a href="#title">Top</a>
+  <br>
+  <a href="#section1">About</a>
+  <a href="#section2">Food</a>
+  <a href="#section5">Portrait</a>
+  <a href="#section9">Nature</a>
+  <a href="#section12">Newborn</a>
+  <br>
+  <a href="#section14">Bottom</a>
+
+  </nav>
+
+<div id="title" class="section header">
+  <h1>Josephine Dea</h1>
+  <h2>Photography Portfolio</h2>
+
+</div>
+</body>
+
+<div id="section1" class="section">
+  <div class="text">
+    <p><b>Here's a glimpse into my world.</b> If you don't already know by now my name is Josephine,
+      but people like to call me Jo. I was originally from Los Angeles,
+      but moved to the Bay Area when I was little. I enjoy hiking, going to the beach,
+      and having BBQ's. I'd like to think I'm spontaneous, but not a dare devil. The craziest thing
+      I've done would probably be ziplinning in the Santa Cruz Mountains and parasailing in Thailand.
+      Currently I'm attending CSU East Bay majoring in Art with emphasis in Multimedia. I'm also
+      an assistant manager at a photography studio. Besides from taking photos inside the studio, I also
+      photograph on the side. I enjoy photographing people from maternity, newborn, and engagement.
+      From time to time I love to photograph landscape and food as well.
+      This is my website I've created to showcase my photography. Enjoy!
+  </div>
+</div>
+
+
+<div id="section2" class="section">
+  <div class="text">
+    <p>My friend and I went to The Table, located in Willow Glen, CA for some drinks and appetizers.
+      It was our frist time there and I really enjoyed it. My <b>wagyu steak sandwich with a side of
+      arugula salad</b> was to die for.
+    Seriously it was delicious!!! Jam-packed with flavors and the steak was really juicy.</p>
+  </div>
+</div>
+
+<div id="section3" class="section">
+  <div class="text">
+    <p><b>Chicken liver mousse and pickles.</b> There was actually two pieces on the plate,
+      but my friend ate one before I could photograph it. I love the white plate against the wodden
+      table as the backdrop for the food.  </p>
+  </div>
+</div>
+
+<div id="section4" class="section">
+  <div class="text">
+  <p><b>Drake's Dealership</b> is such a classic place with it's authentic brick building look. They got their
+    name becase this place used to be an old parts and service department for an old Dodge Dealership.
+    The atmosphere is pretty great for an all outdoor experience and their pet freidnly too.</p>
+
+  </div>
+</div>
+
+<div id="section5" class="section">
+  <div class="text">
+    <p>This is a portrait of my good friend Melanie. I call this piece <b>"Chef versus Pig."</b>
+    Clearly we see a winner.</p>
+  </div>
+</div>
+
+<div id="section6" class="section">
+  <div class="text">
+    <p><b>Music and graffiti</b> go hand in hand and people associate graffiti with rap and hip hop.
+    This is a photograph of my good friend Mike. He doesn't really listen to either of this music though.
+    His passion is creating and mixing EDM tracks.</p>
+  </div>
+</div>
+
+<div id="section7" class="section">
+  <div class="text">
+    <p><b>Flowers and People</b> cannot be controlled but live together. This silhouette was taken at the
+    Pace Gallery- Living Digital Space and Future Parks. </p>
+  </div>
+</div>
+
+<div id="section8" class="section">
+  <div class="text">
+    <p>With this image I really wanted to make the <b>RED</b> pop out from the umbrella and high heels. This is
+    a photograph of my friend Jacquelyne. </p>
+  </div>
+</div>
+
+<div id="section9" class="section">
+  <div class="text">
+    <p><b>Miss Lady Bug</b> symbolizes tranquility and reminds me to slow down in my fast paced world and
+    enjoy the beauty of nature. This was taken in my backyard. </p>
+  </div>
+</div>
+
+<div id="section10" class="section">
+  <div class="text">
+    <p>These <b>palm trees</b/> were captured up in the San Jose hills on a rainy day.</p>
+  </div>
+</div>
+
+<div id="section11" class="section">
+  <div class="text">
+    <p>This was taken at <b>Alviso</b> in San Jose, CA. I really like the openness of this field. </p>
+  </div>
+</div>
+
+<div id="section12" class="section">
+  <div class="text">
+    <p>This <b>baby girl</b> finally stopped being fussy to let me photograph her on her tummy.
+      Took me a good 30 minutes or so to capture. Did I mention she peed on the blantket too.</p>
+  </div>
+</div>
+
+<div id="section13" class="section">
+  <div class="text">
+    <p>Baby's first <b>Turkey Day!</b> This is a photograph of my friends baby boy.</p>
+  </div>
+</div>
+
+<div id="section14" class="section">
+  <div class="text">
+    <p>This couple had the surprise of a lifetime. They were welcoming a <b>baby boy</b> to their family. Congrats!!!</p>
+  </div>
+</div>
+
+
+<div class="footer">This website was created by <b>Josephine Dea</b> for Ian Pollack's Web Authoring class. 2016 &copy;</div>
+
+
+
+</body>
+</html>
