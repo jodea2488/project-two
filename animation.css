@@ -1,0 +1,301 @@
+/*navigation*/
+
+.floating-menu {
+font-family:'Fjalla One', sans-serif;
+background:lightgrey;
+padding: 5px;;
+width: 130px;
+z-index: 100;
+position: fixed;
+}
+
+.floating-menu a,
+.floating-menu h3 {
+font-size: 0.9em;
+display: block;
+margin: 0 0.5em;
+color: white;
+}
+
+/*SETUP*/
+html {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  margin:0;
+  padding:0;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: Oswald;
+  perspective: 1px;
+}
+
+
+/*SECTIONS*/
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.header h1{
+  margin-top: -20px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 150%;
+  color: #333;
+}
+.section {
+  position: relative;
+  padding: 20% 10%;
+  min-height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: 0 5px 1px rgba(0, 0, 0, .7), 0 -5px 1px rgba(0, 0, 0, .7);
+  background: 50% 50% / cover;
+}
+
+
+
+/*SECTION BOXES*/
+#section1 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .2);
+  margin: auto;
+  margin-right: auto;
+}
+
+#section2 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+#section3 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section4 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+
+}
+
+#section5 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section6 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+#section7 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section8 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+#section9 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section10 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+#section11 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section12 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+#section13 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+#section14 .text {
+  width: 50%;
+  padding: 10px 30px;
+  border-radius: 1px;
+  background: rgba(200,200,200, .7);
+  margin-left: auto;
+  margin-right: 0;
+
+}
+
+.header {
+  text-align: center;
+  font-size: 175%;
+  color: white;
+  text-shadow: 0 2px 2px #000;
+
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+/*SOcial media links in footer*/
+
+/*SECTION IMAGES*/
+#title {
+  background-image: url("images/profile2.jpg");
+  background-attachment: fixed;
+}
+#section1{
+  background-image: url("images/profile3.jpg");
+  background-attachment: fixed;
+}
+#section2 {
+  background-image: url("images/sandwich.jpg");
+  background-attachment: fixed;
+}
+#section3{
+  background-image: url("images/liver.jpg");
+  background-attachment: fixed;
+}
+#section4{
+  background-image: url("images/dealership.jpg");
+  background-attachment: fixed;
+}
+#section5{
+  background-image: url("images/melanie.jpg");
+    background-attachment: fixed;
+}
+#section6{
+  background-image: url("images/mike.jpg");
+  background-attachment: fixed;
+}
+
+#section7{
+  background-image: url("images/profile4.jpg");
+  background-attachment: fixed;
+}
+
+#section8{
+  background-image: url("images/umbrella.jpg");
+  background-attachment: fixed;
+}
+
+#section9{
+  background-image: url("images/ladybug.jpg");
+  background-attachment: fixed;
+
+}
+
+#section10{
+  background-image: url("images/palmtrees2.jpg");
+  background-attachment: fixed;
+}
+
+#section11{
+  background-image: url("images/sanjose.jpg");
+  background-attachment: fixed;
+}
+
+#section12{
+  background-image: url("images/baby1.jpg");
+  background-attachment: fixed;
+}
+
+#section13{
+  background-image: url("images/baby3.jpg");
+  background-attachment: fixed;
+}
+
+#section14{
+  background-image: url("images/baby4.jpg");
+  background-attachment: fixed;
+}
+
+#section15s{
+  background-color: : white;
+  background-attachment: fixed;
+}
